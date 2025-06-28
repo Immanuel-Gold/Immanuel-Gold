@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Immanuel-Gold
-- 👀 I’m interested in Fullstack Development, Mobile Development & Technical Writing
-- 🌱 I’m currently learning BackendDevelopment(Express Js, Hono Js, MongoDB...)
+- 👀 I’m interested in Fullstack Development, Technical Writing and Learning More
+- 🌱 I’m currently learning Backend Development and Getting Better at Writing
 - 💞️ I’m all good for now
 - 📫 How to reach me: pams.gold0@gmail
 - 😄 Pronouns: He/Him
