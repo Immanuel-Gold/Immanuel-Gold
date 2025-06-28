@@ -4,7 +4,7 @@
 - 💞️ I’m all good for now
 - 📫 How to reach me: pams.gold0@gmail
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Something that is fun...
+- ⚡ Fun fact: Turtles can't carry weapons...
 
 <!---
 Immanuel-Gold/Immanuel-Gold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
