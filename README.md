@@ -5,6 +5,7 @@
 - 📫 How to reach me: pams.gold0@gmail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Turtles can't carry weapons...
+- Old acc: @Pam-Gold
 
 <!---
 Immanuel-Gold/Immanuel-Gold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
